@@ -1,5 +1,5 @@
 /* XPM */
-static char * title_1_active_xpm[] = {
+static char * title_2_active_xpm[] = {
 "5 29 25 1",
 " 	c None",
 ".	c #556068",
@@ -25,7 +25,7 @@ static char * title_1_active_xpm[] = {
 "/	c #495259",
 "(	c #485158",
 "_	c #475057",
-":	c #3DAEE9",
+":	c #35D1B2",
 ".....",
 "+++++",
 "@@@@@",
