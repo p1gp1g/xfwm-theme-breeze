@@ -2,7 +2,7 @@
 static char * top_right_inactive_xpm[] = {
 "8 29 2 1",
 " 	c None",
-".	c #292F34",
+".	c #292F34 s inactive_color_2",
 "......  ",
 "....... ",
 "........",

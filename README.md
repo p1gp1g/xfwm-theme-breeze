@@ -12,3 +12,6 @@ Feel free to fork this and add any feature you thing is needed.
 
 You can of course call it whatever you like on your local machine.
 
+### To use (in)active_color_2 (from style color)
+
+Comment active_color_2 and inactive_color_2 in ./xfwm4/themerc

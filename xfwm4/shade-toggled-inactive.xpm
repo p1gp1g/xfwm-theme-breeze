@@ -2,7 +2,7 @@
 static char * shade_toggled_inactive_xpm[] = {
 "18 18 6 1",
 " 	c None",
-".	c #292F34",
+".	c #292F34 s inactive_color_2",
 "+	c #D4D7DA",
 "@	c #4E5458",
 "#	c #BFC5C8",

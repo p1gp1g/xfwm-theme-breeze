@@ -2,7 +2,7 @@
 static char * stick_inactive_xpm[] = {
 "18 18 7 1",
 " 	c None",
-".	c #292F34",
+".	c #292F34 s inactive_color_2",
 "+	c #A0A5A7",
 "@	c #BDC3C7",
 "#	c #C1C7CA",

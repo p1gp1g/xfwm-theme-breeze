@@ -11,11 +11,17 @@
 #
 
 active_text_color=#dfdfdf
+# default color
+active_color_2=#4d555d
+inactive_color_2=#292f34
+# lighter color
+#active_color_2=#9da5ad
+#inactive_color_2=#696f74
 button_offset=3
 button_spacing=4
 full_width_title=true
 inactive_text_color=#a0a0a0
-maximized_offset=2
+maximized_offset=3
 show_app_icon=false
 title_horizontal_offset=0
 title_vertical_offset_active=1

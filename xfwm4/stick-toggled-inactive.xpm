@@ -2,7 +2,7 @@
 static char * stick_toggled_inactive_xpm[] = {
 "18 18 10 1",
 " 	c None",
-".	c #292F34",
+".	c #292F34 s inactive_color_2",
 "+	c #8C8F93",
 "@	c #969B9E",
 "#	c #909699",
@@ -10,7 +10,7 @@ static char * stick_toggled_inactive_xpm[] = {
 "%	c #BDC3C7",
 "&	c #979CA0",
 "*	c #8F9498",
-"=	c #3A4348",
+"=	c #3A4348 s inactive_color_2",
 "..................",
 "..................",
 "..................",
